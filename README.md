@@ -5,3 +5,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   </a>
 </p>
+
+# CREDITS
+- [TELEGRAM ](https://t.me/lntechnical)
+
